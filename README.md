@@ -18,6 +18,7 @@ Cover Page (render as first page when converted to PDF)
 
 **Submitted by:** Tarun Gupta  
 
+---
 
 # Executive Summary & Financial Highlights
 
