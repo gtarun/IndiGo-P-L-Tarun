@@ -3,7 +3,7 @@
 Cover Page (render as first page when converted to PDF)
 =====================================
 -->
-<div align="center">
+
 
 # Profit & Loss Statement Analysis  
 ## InterGlobe Aviation (IndiGo)  
@@ -11,7 +11,7 @@ Cover Page (render as first page when converted to PDF)
 
 **Submitted by:** Tarun Gupta  
 
-</div>
+
 
 ---
 
