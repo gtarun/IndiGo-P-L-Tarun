@@ -5,15 +5,19 @@ Cover Page (render as first page when converted to PDF)
 -->
 
 
+
+
+
+
+---
+
+
 # Profit & Loss Statement Analysis  
 ## InterGlobe Aviation (IndiGo)  
 ### Assignment: P&L Statement Analysis  
 
 **Submitted by:** Tarun Gupta  
 
-
-
----
 
 # Executive Summary & Financial Highlights
 
